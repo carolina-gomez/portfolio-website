@@ -5,9 +5,11 @@ export const ProjectList = [
     {
         name:"E-commerce Website",
         image: ecommerceimg,
+        skills: "JavaScript, HTML, CSS",
     },
     {
         name:"Spotify Clone",
         image: spotifyimg,
+        skills: "JavaScript, HTML, CSS",
     }
 ]
